@@ -4,7 +4,7 @@ Bando's Comic Enhancer is a simple bookmarklet that adds page preloading to the 
 
 ## Install
 
-To install, follow the instructions [here](https://raw.githack.com/trevorjay/ng-bandos-comic-enhancer/feature-001/install.html).
+To install, follow the instructions [here](https://raw.githack.com/trevorjay/ng-bandos-comic-enhancer/main/install.html).
 
 ## Usage
 
