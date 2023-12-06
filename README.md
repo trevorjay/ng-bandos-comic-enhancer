@@ -21,7 +21,7 @@ Once activated, Bando's Comic Enhancer will communicate its status by prefixing 
 
 🔎 - The page format is not supported for embedded viewing, please enter the full page viewer
 
-✨ - The next page has been load
+✨ - The next page has beeloaded
 
 
 ## Features
