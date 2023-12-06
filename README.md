@@ -6,6 +6,10 @@ Bando's Comic Enhancer is a simple bookmarklet that adds page preloading to the 
 
 To install, follow the instructions [here](https://raw.githack.com/trevorjay/ng-bandos-comic-enhancer/main/install.html).
 
+### Mobile
+
+Bando's Comic Enhancer should be compatible with most mobile browsers. However, most mobile browsers restrict bookmarklet creation. The easiest way to circumvent this is to bookmark another site and then edit the title and URL. You can copy the needed URL from [here](https://raw.githubusercontent.com/trevorjay/ng-bandos-comic-enhancer/main/bce.txt).
+
 ## Usage
 
 1) Visit the comic on NG.
