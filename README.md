@@ -8,6 +8,20 @@ To install, follow the instructions [here](https://raw.githack.com/trevorjay/ng-
 
 ## Usage
 
+1) Visit the comic on NG.
+2) Emedded post in the "gallery" format can be browsed as is, other formats require first launching the full page viewer.
+3) Click your "BCE" bookmark.
+4) Enjoy!
+
+### Status Glossary
+
+Once activated, Bando's Comic Enhancer will communicate its status by prefixing the page title with an emoji. In some browsers, you may need more than one page open before page titles are visible.
+
+✨
+
+
+
+
 1) Create and prepare your art post as usual, but do not click "Submit Art".
 2) Click your "Schedule NG Art Post" bookmark.
 3) The "Submit Art" button becomes a "Schedule" button.
