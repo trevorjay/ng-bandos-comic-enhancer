@@ -18,8 +18,11 @@ To install, follow the instructions [here](https://raw.githack.com/trevorjay/ng-
 Once activated, Bando's Comic Enhancer will communicate its status by prefixing the page title with an emoji. In some browsers, you may need more than one page open before page titles are visible.
 
 ⏳ - The enhancer is initializing
+
 🔎 - The page format is not supported for embedded viewing, please enter the full page viewer
+
 ✨ - The next page has been load
+
 
 ## Features
 * Preloads the next two pages to be read
