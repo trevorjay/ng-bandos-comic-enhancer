@@ -2,7 +2,7 @@
 
 # Bando's Comic Enhancer
 
-Bando's Comic Enhancer is a simple bookmarklet that adds page preloading to the comic viewer on [Newgrounds](https://www.newgrounds.com/).
+Bando's Comic Enhancer is a simple bookmarklet that adds page preloading to the comic viewer on [Newgrounds](https://www.newgrounds.com/art/view/kittyhawkmontrose/download-first-bando-s-comic-enhancer).
 
 ## Install
 
