@@ -10,7 +10,7 @@ Installing on desktop is usually as easy as dragging and dropping, follow the in
 
 ### Mobile
 
-Bando's Comic Enhancer should be compatible with most mobile browsers. However, most mobile browsers restrict bookmarklet creation. The easiest way to circumvent this is to bookmark another site and then edit the title and URL. You can copy the needed URL from [here](https://raw.githubusercontent.com/trevorjay/ng-bandos-comic-enhancer/main/bce.txt) and watch a [video of this being done on ios](https://raw.githack.com/trevorjay/ng-bandos-comic-enhancer/main/ios.mp4).
+Bando's Comic Enhancer should be compatible with most mobile browsers. However, most mobile browsers restrict bookmarklet creation. The easiest way to circumvent this is to bookmark another site and then edit the title and URL. You can copy the needed URL from [here](https://raw.githubusercontent.com/trevorjay/ng-bandos-comic-enhancer/main/bce.txt) and watch a [video of this being done on ios](https://raw.githack.com/trevorjay/ng-bandos-comic-enhancer/main/ios.gif).
 
 ## Usage
 
