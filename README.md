@@ -15,9 +15,9 @@ Bando's Comic Enhancer should be compatible with most mobile browsers. However, 
 ## Usage
 
 1) Visit the comic on NG.
-2) Emedded post in the "gallery" format can be browsed as is, other formats require first launching the full page viewer.
-3) Click your "BCE" bookmark.
-4) Enjoy!
+2) Click your "BCE" bookmark.
+3) Embedded post in the "gallery" format can be browsed as is, other formats require first launching the full page viewer to enable preloading.
+5) Enjoy!
 
 ### Status Glossary
 
