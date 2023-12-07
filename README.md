@@ -1,3 +1,5 @@
+![Bando's Comic Enhancer](bando_comic_enhancer_slim_github.png "Bando's Comic Enhancer")
+
 # Bando's Comic Enhancer
 
 Bando's Comic Enhancer is a simple bookmarklet that adds page preloading to the comic viewer on [Newgrounds](https://www.newgrounds.com/).
