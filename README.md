@@ -41,4 +41,4 @@ Once activated, Bando's Comic Enhancer will communicate its status by prefixing 
 ## Limitations
 * Doesn't accelerate the loading of the first page when transitioning to the full page view, so the initial page load may still be slow.
 * Does not force previously read pages to remain cached
-* Purposely does not alter the loading of either "infinite scroll" embedded format
+* Purposely does not alter the loading of either "infinite scroll" embedded formats
